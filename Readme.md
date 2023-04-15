@@ -27,6 +27,7 @@ public class DemoPDFTest {
 	{
 	   String text =  pdfUtil.getText("/PDFUtilComparison/src/test/resources/image-compare-same/sample1.pdf" , 3 ,4) ;  
 	   System.out.println(text);
+	   
 		
 	}
 	
